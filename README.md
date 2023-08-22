@@ -1,5 +1,5 @@
 <!--- Include Jira Link --->
-### Issue# HT-
+# Issue# HT-
 
 Please include a summary of the changes and the related issue. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
@@ -16,7 +16,8 @@ Please include a summary of the changes and the related issue. Please also inclu
 - [ ] :signal_strength: Build (changes to build/packages)
 - [ ] :construction: Breaking change (fix or feature that would cause existing functionality to not work as expected)
 
-### Has This Been Tested?
+## Has This Been Tested?
+<!--- If no tests, you may delete this section --->
 
 Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
 
@@ -25,10 +26,7 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 
 **Test Configuration**:
 
-## Anything specifically you want feedback on?
-
-<!--- Ask any specific questions you may have here --->
-
+<!--- Any additional configuration that's needed for reviewers to run tests? If not can be deleted --->
 
 ## Checklist:
 
@@ -40,3 +38,11 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 - [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] New and existing unit tests pass locally with my changes
 - [ ] Any dependent changes have been merged and published
+
+
+## Anything you think you might break with this PR?
+
+Please describe breaking changes.
+
+## Anything you'd like the reviewers opinion on specifically?
+<!--- Ask any specific questions you may have here --->
